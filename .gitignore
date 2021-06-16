@@ -2,6 +2,10 @@
 
 !.gitignore
 !.gitconfig
+
+!.scripts
+!.scripts/*
+
 !.config/
 
 
