@@ -1,0 +1,7 @@
+[user]
+	email = yoieh@live.se
+	name = Johan Nilsson
+[credential]
+	helper = cache --timeout=600
+[init]
+	defaultBranch = master
