@@ -30,4 +30,4 @@
 !Pictures/wallpapers/*
 
 
-install-utils.sh
+!install-utils.sh
